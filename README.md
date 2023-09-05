@@ -34,19 +34,19 @@ Fibonacci Retracement is a powerful tool for identifying potential support and r
 
 The Parabolic SAR is used to highlight potential trend reversals in price movements. It appears as a series of dots above or below the price chart, indicating potential entry and exit points based on the direction of the dots.
 
-![Parabolic SAR Example](images/parabolic_sar.png)
+![Parabolic SAR Example](images/Parabolic-SAR.png)
 
 ### Aroon Oscillator
 
 The Aroon Oscillator is designed to determine the strength of a trend and identify potential trend reversals. It consists of two lines, Aroon Up and Aroon Down, which oscillate between 0 and 100. Traders can use these lines to gauge trend strength and potential shifts in market direction.
 
-![Aroon Oscillator Example](images/aroon_oscillator.png)
+![Aroon Oscillator Example](images/Aroon-Oscillator.png)
 
 ### On-Balance Volume (OBV)
 
 The On-Balance Volume (OBV) indicator relates volume to price movements, helping traders identify buying and selling pressure. A rising OBV suggests accumulation, while a falling OBV indicates distribution.
 
-![On-Balance Volume (OBV) Example](images/obv.png)
+![On-Balance Volume (OBV) Example](images/On-Balance-Volume.png)
 
 ## 📝 Usage and General Instructions
 
