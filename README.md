@@ -28,7 +28,7 @@ The Ichimoku Cloud is a comprehensive technical indicator that provides a visual
 
 Fibonacci Retracement is a powerful tool for identifying potential support and resistance levels based on key Fibonacci ratios, such as 23.6%, 38.2%, 50%, 61.8%, and 100%. These levels can act as price reversal points, helping traders make decisions on entry and exit points.
 
-![Fibonacci Retracement Example](images/fibonacci_retracement.png)
+![Fibonacci Retracement Example](images/Fib-Retracement.png)
 
 ### Parabolic SAR (Stop and Reverse)
 
