@@ -1,5 +1,5 @@
 <div>
-  <h1>📉 Advanced-Level-Indicators</h1>
+  <h1>📉 Advanced Level Indicators</h1>
   <p>Welcome to the Advanced Stock Market Technical Indicators Repository! In the world of stock trading and investment, having the right tools at your disposal is crucial for making informed decisions. Technical indicators play a pivotal role in analyzing price movements, identifying trends, and predicting potential market reversals. This repository aims to provide a comprehensive collection of advanced technical indicators that can empower traders and investors with valuable insights into the stock market.</p>
 </div>
 
